@@ -1,1 +1,1 @@
-# flavour_aware_food_rec_system
+# Flavour Aware Food Recommender System
